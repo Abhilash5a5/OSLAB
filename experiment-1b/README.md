@@ -1,5 +1,5 @@
 #program file
-![program file](fsfc.py)
+![program file](SJF.py)
 
 #sample input
 ![sample input](programinput.jpeg)
