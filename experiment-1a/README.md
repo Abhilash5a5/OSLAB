@@ -2,7 +2,7 @@
 ![program file](fsfc.py)
 
 #sample input
-![sample input](program input.jpeg)
+![sample input](programinput.jpeg)
 
 #program output
-![program output](program output.jpeg)
+![program output](programoutput.jpeg)
