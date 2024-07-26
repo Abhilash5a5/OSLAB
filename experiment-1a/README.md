@@ -1,8 +1,8 @@
 #program file
 ![program file](fsfc.py)
 
-#sample input
-![sample input](programinput.jpeg)
+#Tested output
+![TestedOutput](TestedOutput(1).png)
 
 #program output
 ![program output](programoutput.jpeg)
