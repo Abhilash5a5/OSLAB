@@ -3,14 +3,14 @@ LAB PROGRAMS
 
 # FCFS progran status
 ##program files of FCFS
-![program file](1a/program1afile.c)
-![program_file](1a/Program1a.jpeg)
+![program file](EXP 9/1a/program1afile.c)
+![program_file](EXP 9/1a/Program1a.jpeg)
 
 ##sample input and output of FCFS
-![sample input](1a/program1asampleoutput.jpeg)
+![sample input](EXP 9/1a/program1asampleoutput.jpeg)
 
 ##tested input and output of FCFS
-![tested input](1a/program1aoutput.jpeg)
+![tested input](EXP 9/1a/program1aoutput.jpeg)
 
 # SJF progran status
 ##program files of SJF
