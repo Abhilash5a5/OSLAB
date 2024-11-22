@@ -50,39 +50,39 @@ LAB PROGRAMS
 # MVT program status
 
 ##program files of MVT
-![program file](EXP10/MVTfile.c)
-![program_file](EXP10/MVT_code_5A5.jpeg)
+![program file](EXP12/MVTfile.c)
+![program_file](EXP12/MVT_code_5A5.jpeg)
 
 ##sample input and output of MVT
-![sample input](EXP10/mvt_IO1_5A5.jpeg)
+![sample input](EXP12/mvt_IO1_5A5.jpeg)
 
 ##tested input and output of MVT
-![tested input](EXP10/mvt_EO1_5A5.jpeg)
+![tested input](EXP12/mvt_EO1_5A5.jpeg)
 
 
 # MFT program status
 
 ##program files of MFT
-![program file](EXP10/MFTfile.c)
-![program_file](EXP10/MFT_code_5A5.jpeg)
+![program file](EXP12/MFTfile.c)
+![program_file](EXP12/MFT_code_5A5.jpeg)
 
 ##sample input and output of MFT
-![sample input](EXP10/MFT_IO_5A5.jpeg)
+![sample input](EXP12/MFT_IO_5A5.jpeg)
 
 ##tested input and output of MFT
-![tested input](EXP10/MFT_EO_5A5.jpeg)
+![tested input](EXP12/MFT_EO_5A5.jpeg)
 
 # Producer&Consumer program status
 
 ##program files of Producer&Consumer
-![program file](EXP10P&C/Producer&Consumerfile.c)
-![program_file](EXP10P&C/Producer&Consumer_code_5A5.jpeg)
+![program file](EXP10/Producer&Consumerfile.c)
+![program_file](EXP10/Producer&Consumer_code_5A5.jpeg)
 
 ##sample input and output of Producer&Consumer
-![sample input](EXP10P&C/Producer&Consumer_IO_5A5.jpeg)
+![sample input](EXP10/Producer&Consumer_IO_5A5.jpeg)
 
 ##tested input and output of Producer&Consumer
-![tested input](EXP10P&C/Producer&Consumer_EO_5A5.jpeg)
+![tested input](EXP10/Producer&Consumer_EO_5A5.jpeg)
 
 # Dining Philosopher program status
 
