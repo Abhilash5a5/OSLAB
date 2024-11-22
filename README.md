@@ -3,49 +3,49 @@ LAB PROGRAMS
 
 # FCFS progran status
 ##program files of FCFS
-![program file](EXP 9/1a/program1afile.c)
-![program_file](EXP 9/1a/Program1a.jpeg)
+![program file](EXP9/1a/program1afile.c)
+![program_file](EXP9/1a/Program1a.jpeg)
 
 ##sample input and output of FCFS
-![sample input](EXP 9/1a/program1asampleoutput.jpeg)
+![sample input](EXP9/1a/program1asampleoutput.jpeg)
 
 ##tested input and output of FCFS
-![tested input](EXP 9/1a/program1aoutput.jpeg)
+![tested input](EXP9/1a/program1aoutput.jpeg)
 
 # SJF progran status
 ##program files of SJF
-![program file](1b/program1bfile.c)
-![program_file](1b/Program1b.jpeg)
+![program file](EXP9/1b/program1bfile.c)
+![program_file](EXP9/1b/Program1b.jpeg)
 
 ##sample input and output of SJF
-![sample input](1b/program1bsampleoutput.jpeg)
+![sample input](EXP9/1b/program1bsampleoutput.jpeg)
 
 ##tested input and output of SJF
-![tested input](1b/program1boutput.jpeg)
+![tested input](EXP9/1b/program1boutput.jpeg)
 
 # RoundRobin program status
 
 ##program files ofRoundRobin
-![program file](1c/roundrobinfile.c)
-![program_file](1c/roundrobin2_code_5A5.jpeg)
+![program file](EXP9/1c/roundrobinfile.c)
+![program_file](EXP9/1c/roundrobin2_code_5A5.jpeg)
 
 ##sample input and output of RoundRobin
-![sample input](1c/roundrobin2_io_5A5.jpeg)
+![sample input](EXP9/1c/roundrobin2_io_5A5.jpeg)
 
 ##tested input and output of RoundRobin
-![tested input](1c/roundrobin2_eo_5A5.jpeg)
+![tested input](EXP9/1c/roundrobin2_eo_5A5.jpeg)
 
 # Priority program status
 
 ##program files of Priority
-![program file](1d/PRORITYFILE.c)
-![program_file](1d/PRIORITY_code_5A5.jpeg)
+![program file](EXP9/1d/PRORITYFILE.c)
+![program_file](EXP9/1d/PRIORITY_code_5A5.jpeg)
 
 ##sample input and output of Priority
-![sample input](1d/PRIORITY_IO_5A5.jpeg)
+![sample input](EXP9/1d/PRIORITY_IO_5A5.jpeg)
 
 ##tested input and output of Priority
-![tested input](1d/PRIORITY_EO_5A5.jpeg)
+![tested input](EXP9/1d/PRIORITY_EO_5A5.jpeg)
 
 # MVT program status
 
